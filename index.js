@@ -859,7 +859,7 @@ app.get('/xbl', async (req, res) => {
                 }
               ],
               "footer": {
-                "text": "Bigyungen",
+                "text": "dune",
                 "icon_url": "https://cdn.discordapp.com/avatars/919624780112592947/a_119345db608773253c2c6d687ea25155.webp"
               }
             }
